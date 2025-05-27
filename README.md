@@ -1,12 +1,21 @@
-- 👋 Hi, I’m @singareddymegz
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 👋 Hi, I'm Meghana 
 
-<!---
-singareddymegz/singareddymegz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 I'm a 1st-year B.Tech student starting my journey into the world of coding and development.
+
+💻 Currently Learning:
+- Java (basics, logic building, syntax)
+- Introduction to programming & problem solving
+- Git and GitHub
+
+🌱 Beginner Projects I'm Exploring:
+- Simple Java programs (loops, arrays, conditions)
+- Mini CLI apps like a calculator or number guessing game
+
+🧠 Practicing DSA on:
+- [LeetCode](https://leetcode.com/meghanasingareddy)
+
+📫 Connect with me:
+- [LinkedIn](https://linkedin.com/in/singareddy-meghana-reddy-030527292)
+
+⚡ Fun fact: I enjoy learning by doing, even if I mess up — that's how real coders grow!
+
