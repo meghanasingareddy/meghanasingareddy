@@ -1,18 +1,24 @@
 # 👋 Hi, I'm Meghana 
 
-🎓 I'm a 1st-year B.Tech student starting my journey into the world of coding and development.
+🎓 I'm a 2nd-year B.Tech student starting my journey into the world of coding and development.
 
 💻 Currently Learning:
-- Java (basics, logic building, syntax)
-- Introduction to programming & problem solving
-- Git and GitHub
 
-🌱 Beginner Projects I'm Exploring:
-- Simple Java programs (loops, arrays, conditions)
-- Mini CLI apps like a calculator or number guessing game
+Improving my coding skills and problem-solving abilities
 
-🧠 Practicing DSA on:
-- [LeetCode](https://leetcode.com/meghanasingareddy)
+Exploring new programming concepts and tools
+
+Strengthening my understanding of software development workflows
+
+🌱 Projects I'm Exploring:
+
+Working on small to medium coding projects to apply what I learn
+
+Building practical apps and tools to solve everyday problems
+
+Experimenting with different programming challenges to grow my skills
+
+
 
 📫 Connect with me:
 - [LinkedIn](https://linkedin.com/in/singareddy-meghana-reddy-030527292)
