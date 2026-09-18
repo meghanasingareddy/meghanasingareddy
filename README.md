@@ -19,6 +19,11 @@ currently:
 
 [LinkedIn](https://www.linkedin.com/in/meghana-reddy-singareddy-030527292)
 
----
-
-<sub>one project at a time.</sub>
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/meghanasingareddy/singareddymegz/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/meghanasingareddy/singareddymegz/output/github-snake.svg" />
+  <img alt="github-snake"
+    src="https://raw.githubusercontent.com/meghanasingareddy/singareddymegz/output/github-snake.svg" />
+</picture>
