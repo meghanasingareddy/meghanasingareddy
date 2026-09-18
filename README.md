@@ -1,27 +1,24 @@
-# 👋 Hi, I'm Meghana 
+# hi, i'm meghana 
 
-🎓 I'm a 2nd-year B.Tech student starting my journey into the world of coding and development.
+cse student from india.
 
-💻 Currently Learning:
+currently:
+- building things
+- learning things
+- working on random ideas
 
-Improving my coding skills and problem-solving abilities
+---
 
-Exploring new programming concepts and tools
+### things i've made
 
-Strengthening my understanding of software development workflows
+**CleaRoute** · **Chatridge** · **ExpenseFlow** · **DataDock** · **StreamSentinel**
 
-🌱 Projects I'm Exploring:
+---
 
-Working on small to medium coding projects to apply what I learn
+### find me
 
-Building practical apps and tools to solve everyday problems
+[LinkedIn](https://www.linkedin.com/in/meghana-reddy-singareddy-030527292)
 
-Experimenting with different programming challenges to grow my skills
+---
 
-
-
-📫 Connect with me:
-- [LinkedIn](https://linkedin.com/in/singareddy-meghana-reddy-030527292)
-
-⚡ Fun fact: I enjoy learning by doing, even if I mess up — that's how real coders grow!
-
+<sub>one project at a time.</sub>
